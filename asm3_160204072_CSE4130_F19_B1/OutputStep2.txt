@@ -1,0 +1,4 @@
+ID	Name	Type	Data Type	Scope	Value
+1	 x1	var	float		global	3.125
+2	 f1	func	double		global	
+3	 main	func	int		global	
